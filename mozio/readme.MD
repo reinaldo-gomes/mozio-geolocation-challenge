@@ -1,7 +1,7 @@
 # Mozio Geolocation Challenge
 
 A link to a running instance has been provided at AWS:<br/>
-<http://ec2-18-119-104-82.us-east-2.compute.amazonaws.com:8000>
+<http://ec2-3-145-88-212.us-east-2.compute.amazonaws.com:8000>
 
 GeoJson is expected to be in the following format:
 ```
