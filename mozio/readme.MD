@@ -26,11 +26,11 @@ GeoJson is expected to be in the following format:
 ## Endpoints available
 
 - List and add providers:<br/>
-<http://ec2-18-119-104-82.us-east-2.compute.amazonaws.com:8000/providers>
+<http://ec2-3-145-88-212.us-east-2.compute.amazonaws.com:8000/providers>
 - List and add service areas:<br/>
-<http://ec2-18-119-104-82.us-east-2.compute.amazonaws.com:8000/serviceareas>
+<http://ec2-3-145-88-212.us-east-2.compute.amazonaws.com:8000/serviceareas>
 - List areas overlapping any given geographic point described in Latitude and Longitude:<br/>
 e.g. overlappingareas?lat=10.5&lng=21.3<br/>
-<http://ec2-18-119-104-82.us-east-2.compute.amazonaws.com:8000/overlappingareas>
+<http://ec2-3-145-88-212.us-east-2.compute.amazonaws.com:8000/overlappingareas>
 - OpenAPI-generated docs:<br/>
-<http://ec2-18-119-104-82.us-east-2.compute.amazonaws.com:8000/docs>
+<http://ec2-3-145-88-212.us-east-2.compute.amazonaws.com:8000/docs>
